@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/13marcelldev" target="blank"><img src="https://img.shields.io/twitter/follow/13marcelldev?logo=twitter&style=for-the-badge" alt="13marcelldev" /></a> </p>
 
-- 🔭 I’m currently working on [100DaysOfCodePython](https://github.com/13MarcellDev/100DaysOfCodePython)
+- 🔭 I’m currently working on [100DaysOfCOdePython](https://github.com/13MarcellDev/100DaysOfCodePython)
 
 - 🌱 I’m currently learning **Python**
 
